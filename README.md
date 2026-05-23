@@ -281,3 +281,48 @@ app/
 ```bash
 git clone https://github.com/DuJuncheng-ctrl/PixelDungeon-DarkEscape.git
 cd PixelDungeon-DarkEscape
+
+
+构建
+bash
+./gradlew assembleDebug
+安装到设备
+bash
+adb install app/build/outputs/apk/debug/app-debug.apk
+🤝 贡献指南
+欢迎提交 Issue 和 Pull Request！
+
+Fork 本仓库
+
+创建特性分支 (git checkout -b feature/amazing-feature)
+
+提交更改 (git commit -m 'Add some amazing feature')
+
+推送到分支 (git push origin feature/amazing-feature)
+
+创建 Pull Request
+
+📄 开源协议
+本项目采用 GPL 3.0 协议开源。
+
+✅ 可以自由使用、修改、分发
+
+✅ 可以用于商业用途
+
+⚠️ 修改后必须开源
+
+⚠️ 必须保留原作者版权声明
+
+详见 LICENSE 文件。
+
+📞 联系方式
+👤 作者：杜俊成 (Du Juncheng)
+
+🐙 GitHub：@DuJuncheng-ctrl
+
+📧 邮箱：16623123664@163.com
+
+⭐ Star History
+如果你觉得这个项目有点意思，欢迎点个 Star ⭐
+
+如果你有更好的想法，欢迎提 Issue / PR 🙏
